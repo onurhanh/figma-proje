@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.link{
+    width: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.link a{
+    text-decoration: none;
+    padding: 15px;
+    border: 1px solid lightgray;
+    border-radius: 30px;
+    margin-left: 30px;
+    font-size: 30px;
+    color: #FFFFFF;
+    background-color: #212121;
+}
+
+.container {
+    width: 1440px;
+    height: 800px;
+    background-color: #F2EAE2;
+    padding-top: 175px;
+}
+
+.description {
+    width: 600px;
+    height: 450px;
+    background-color: #FFFFFF;
+    margin-left: 420px;
+    border-radius: 7px;
+}
+
+.body img {
+    float: left;
+}
+
+.body h4 {
+    padding-top: 32px;
+    padding-left: 331px;
+    margin-bottom: 20px;
+    color: #6C7289;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 14.63px;
+    letter-spacing: 5px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+.body h1 {
+    color: #1C232B;
+    padding-left: 331px;
+    margin-bottom: 24px;
+    font-family: Fraunces;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    padding-right: 31.5px;
+}
+
+.body p {
+    color: #6C7289;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 23px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    padding-left: 331px;
+    margin-bottom: 24px;
+    padding-right: 31.5px;
+}
+
+.body h2 {
+    color: #3D8168;
+    padding-left: 331px;
+    font-family: Fraunces;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.body h5 {
+    text-decoration: line-through;
+    color: #6C7289;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 23px;
+    text-align: left;
+    text-decoration-line: line-through;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    padding-left: 470px;
+    margin-top: -25px
+}
+
+.body a{
+    float: left;
+    margin-top: 30px;
+    margin-left: 31.5px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17.07px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #fff;
+    text-decoration: none;
+    padding: 16px 74px;
+    border-radius: 8px 8px 8px 8px;
+    background-color: #3D8168;
+}
+.body a img{
+    margin-right: 10px;
+}

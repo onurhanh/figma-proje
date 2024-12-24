@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.link{
+    width: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.link a{
+    text-decoration: none;
+    padding: 15px;
+    border: 1px solid lightgray;
+    border-radius: 30px;
+    margin-left: 30px;
+    font-size: 30px;
+    color: #FFFFFF;
+    background-color: #212121;
+}
+
+.container {
+    width: 1440px;
+    height: 900px;
+    background-color: #0D192C;
+    padding-top: 152px;
+}
+
+.description {
+    width: 350px;
+    height: 596px;
+    background-color: #15263F;
+    margin-left: 545px;
+}
+
+.content img {
+    padding-left: 24px;
+    padding-top: 24px;
+    margin-bottom: 24px;
+}
+
+.content h2 {
+    color: #FFFFFF;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 27.72px;
+    text-align: left;
+    text-decoration-skip-ink: none;
+    padding-left: 24px;
+    margin-bottom: 16px;
+}
+.content{
+    height: 515px;
+}
+
+.content p {
+    color: #8BACD9;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 26px;
+    text-align: left;
+    text-decoration-skip-ink: none;
+    padding-left: 24px;
+    padding-right: 24px;
+    margin-bottom: 14px;
+}
+
+.content span img {
+    vertical-align: top;
+    padding: 10px;
+    padding-left: 26px;
+
+}
+
+
+.content span span {
+    color: #00FFF8;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20.16px;
+    text-align: left;
+    text-decoration-skip-ink: none;
+    margin-left: 0px;
+}
+
+.bottom-content {
+    margin-left: 24px;
+}
+
+.bottom-content span {
+    color: #8BACD9;
+    margin-left: 10px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.16px;
+    text-align: left;
+    text-decoration-skip-ink: none;
+}
+
+.botom {
+    border-bottom: 1px solid #2E405A;
+    margin-bottom: 20px;
+    width: 302px;
+    margin-left: 24px;
+
+}
+
+.bottom-content h5 {
+    color: #FFFFFF;
+    font-family: Outfit;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.16px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
